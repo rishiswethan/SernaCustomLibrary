@@ -1,9 +1,10 @@
-package SernaCustomLib.SQLite;
 
 import java.sql.*;
 
 /*
-	->This code makes your usage of SQLite easier, have a look! 
+	-> Add this class to your project folder and modify the package statement to yor own
+	
+	-> This code makes your usage of SQLite easier, have a look! 
 	
 	-> When an object is created for this class, specify the name of the database as an 
 	argument.

@@ -3,6 +3,8 @@ package SernaCustomLib.SQLite;
 import java.sql.*;
 
 /*
+	->This code makes your usage of SQLite easier, have a look! 
+	
 	-> When an object is created for this class, specify the name of the database as an 
 	argument.
 	
